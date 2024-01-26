@@ -4,11 +4,9 @@ I'm Suyog Adsod, a passionate Web Developer from Pune.
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning [Current Learning Focus].
-- 👯 I’m looking to collaborate on [Project/Interest].
-- 🤔 I’m looking for help with [Specific Help/Issue].
-- 💬 Ask me about [Your Expertise/Interest].
-- 📫 How to reach me: suyogadsod147@gmail.com or https://www.linkedin.com/in/suyog-adsod-a3b584276 .
+- 🌱 I’m currently exploring in web development.
+- 💬 Ask me about web development, DSA , DBMS .
+- 📫 How to reach me: suyogadsod147@gmail.com , [https://www.linkedin.com/in/suyog-adsod-a3b584276]Linkdin .
 
 
 
