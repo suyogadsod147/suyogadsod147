@@ -17,6 +17,7 @@ I'm Suyog Adsod, a passionate Web Developer from Pune.
 
 
 <span style="margin-right: 20px; font-size: 30px;">☕ Java</span>
+<FaHtml5 className=' text-orange-500'/>
 <span style="margin-right: 20px; font-size: 30px;">🌐 JavaScript</span>
 <span style="margin-right: 20px; font-size: 30px;">🚀 Node.js</span>
 <span style="margin-right: 20px; font-size: 30px;">⚛️ React.js</span>
