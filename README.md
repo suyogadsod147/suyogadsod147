@@ -10,19 +10,22 @@ I'm Suyog Adsod, a passionate Web Developer from Pune.
 - 💬 Ask me about [Your Expertise/Interest].
 - 📫 How to reach me: suyogadsod147@gmail.com or https://www.linkedin.com/in/suyog-adsod-a3b584276 .
 
-import { FaJava, FaJs, FaNodeJs, FaReact, FaDatabase, FaHtml5, FaCss3, FaTailwind } from 'react-icons/fa';
+
 
 ## 🔧 Technologies & Tools
 
-- <i class="fas fa-coffee"></i> Java
-- <i class="fab fa-js"></i> JavaScript
-- <i class="fab fa-node"></i> Node.js
-- <i class="fab fa-react"></i> React.js
-- <i class="fas fa-database"></i> SQL
-- <i class="fas fa-database"></i> MongoDB
-- <i class="fab fa-html5"></i> HTML
-- <i class="fab fa-css3"></i> CSS
-- <i class="fab fa-tailwind"></i> Tailwind CSS
+
+
+<span style="margin-right: 20px; font-size: 30px;">☕ Java</span>
+<span style="margin-right: 20px; font-size: 30px;">🌐 JavaScript</span>
+<span style="margin-right: 20px; font-size: 30px;">🚀 Node.js</span>
+<span style="margin-right: 20px; font-size: 30px;">⚛️ React.js</span>
+<span style="margin-right: 20px; font-size: 30px;">📊 SQL</span>
+<span style="margin-right: 20px; font-size: 30px;">🍃 MongoDB</span>
+<span style="margin-right: 20px; font-size: 30px;">🌐 HTML</span>
+<span style="margin-right: 20px; font-size: 30px;">🎨 CSS</span>
+<span style="font-size: 30px;">🌀 Tailwind CSS</span>
+
 
 
 
