@@ -6,7 +6,7 @@ I'm Suyog Adsod, a passionate Web Developer from Pune.
 
 - 🌱 I’m currently exploring in web development.
 - 💬 Ask me about web development, DSA , DBMS .
-- 📫 How to reach me: suyogadsod147@gmail.com , [Linkdin](https://www.linkedin.com/in/suyog-adsod-a3b584276) .
+- 📫 How to reach me: 📧suyogadsod147@gmail.com , [Linkdin](https://www.linkedin.com/in/suyog-adsod-a3b584276) .
 
 
 
