@@ -14,15 +14,16 @@ import { FaJava, FaJs, FaNodeJs, FaReact, FaDatabase, FaHtml5, FaCss3, FaTailwin
 
 ## 🔧 Technologies & Tools
 
-- <FaJava /> Java
-- <FaJs /> JavaScript
-- <FaNodeJs /> Node.js
-- <FaReact /> React.js
-- <FaDatabase /> SQL
-- <FaDatabase /> MongoDB
-- <FaHtml5 /> HTML
-- <FaCss3 /> CSS
-- <FaTailwind /> Tailwind CSS
+- <i class="fas fa-coffee"></i> Java
+- <i class="fab fa-js"></i> JavaScript
+- <i class="fab fa-node"></i> Node.js
+- <i class="fab fa-react"></i> React.js
+- <i class="fas fa-database"></i> SQL
+- <i class="fas fa-database"></i> MongoDB
+- <i class="fab fa-html5"></i> HTML
+- <i class="fab fa-css3"></i> CSS
+- <i class="fab fa-tailwind"></i> Tailwind CSS
+
 
 
 ## 🌱 Learning
