@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm [Your Name], a passionate [Your Profession/Interest] from [Your Location].
+I'm Suyog Adsod, a passionate Web Developer from Pune.
 
 ## 🚀 About Me
 
@@ -8,11 +8,22 @@ I'm [Your Name], a passionate [Your Profession/Interest] from [Your Location].
 - 👯 I’m looking to collaborate on [Project/Interest].
 - 🤔 I’m looking for help with [Specific Help/Issue].
 - 💬 Ask me about [Your Expertise/Interest].
-- 📫 How to reach me: [Your Email] or [Social Media Links].
+- 📫 How to reach me: suyogadsod147@gmail.com or https://www.linkedin.com/in/suyog-adsod-a3b584276 .
+
+import { FaJava, FaJs, FaNodeJs, FaReact, FaDatabase, FaHtml5, FaCss3, FaTailwind } from 'react-icons/fa';
 
 ## 🔧 Technologies & Tools
 
-[List some of the technologies or tools you're familiar with.]
+- <FaJava /> Java
+- <FaJs /> JavaScript
+- <FaNodeJs /> Node.js
+- <FaReact /> React.js
+- <FaDatabase /> SQL
+- <FaDatabase /> MongoDB
+- <FaHtml5 /> HTML
+- <FaCss3 /> CSS
+- <FaTailwind /> Tailwind CSS
+
 
 ## 🌱 Learning
 
